@@ -7,3 +7,5 @@ build/
 *.sln
 *.vcxproj
 externals/
+*venv
+*code-workspace
